@@ -1,2 +1,5 @@
 # hello-world
-just a hello world repository
+ 
+Hello there, this is wenwen, welcome to my helloworld repository.
+
+
